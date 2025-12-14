@@ -14,7 +14,8 @@ This portfolio showcases my expertise in **Text Labeling** and **Image Labeling*
 - `Image_Labeling/` → JSON examples of image annotation tasks
 
 ## Portfolio Document
-A detailed PDF version of this portfolio is included in the repository for reference.
+A detailed PDF version of this portfolio is included in the repository:
+[Download Portfolio PDF](Portfolio%20Data%20Labeling.pdf)
 
 ## Closing Remarks
 This repository demonstrates versatility across NLP and Computer Vision projects, strong attention to detail, and professional dataset preparation for machine learning pipelines.
