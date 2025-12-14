@@ -1,0 +1,8 @@
+{
+  "image": "person_001.jpg",
+  "keypoints": [
+    {"point": "Head", "coordinates": [100,200]},
+    {"point": "Left Shoulder", "coordinates": [150,250]},
+    {"point": "Right Shoulder", "coordinates": [200,250]}
+  ]
+}
