@@ -1,0 +1,7 @@
+{
+  "image": "street_001.jpg",
+  "annotations": [
+    {"category": "Car", "bbox": [100, 200, 300, 400]},
+    {"category": "Person", "bbox": [500, 600, 200, 300]}
+  ]
+}
