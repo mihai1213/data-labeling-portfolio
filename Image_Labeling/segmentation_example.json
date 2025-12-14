@@ -1,0 +1,7 @@
+{
+  "image": "farm_001.jpg",
+  "segmentation": [
+    {"category": "Crop", "polygon": [[100,200],[150,250],[200,200]]},
+    {"category": "Weed", "polygon": [[300,400],[350,450],[400,400]]}
+  ]
+}
