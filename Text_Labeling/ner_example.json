@@ -1,0 +1,7 @@
+{
+  "text": "Barack Obama was born in Hawaii.",
+  "entities": [
+    {"entity": "Barack Obama", "type": "PERSON"},
+    {"entity": "Hawaii", "type": "LOCATION"}
+  ]
+}
